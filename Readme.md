@@ -25,7 +25,7 @@ The goal is to run several experiments on matrix multiply using a few different 
 
 ## The report
 
-Included in this part is a [Report.odt](./Report.odt) where you I documented my results. 
+Included in this part is a [Report.odt](./Report.odt) where I documented my results. 
 
 ## Step 1 - Experimental Setup 
 
