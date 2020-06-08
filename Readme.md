@@ -8,7 +8,7 @@ In this experiment I ran some tests on matrix multiplication and wrote up the re
 
 # Resources 
 
-Provided below are a list of curated resources that helped me complete the task experiment. 
+Provided below are a list of curated resources that helped me complete the experiment. 
 
 1. Matrix Multiply
 	- [https://www.mathsisfun.com/algebra/matrix-multiplying.html](./https://www.mathsisfun.com/algebra/matrix-multiplying.html)
